@@ -29,4 +29,9 @@ From the repo root:
 
 ```bash
 pip install -r requirements.txt
+```
+
+## 3) Test scripts with Elegoo Robot Car
+1. Download Spyder IDE onto your device
+2. Run scripts depending on which behavior you would like to test
 
